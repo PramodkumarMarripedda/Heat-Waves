@@ -21,6 +21,27 @@ Heat waves are **prolonged periods of excessively high temperatures** that pose 
 
 ---
 
+## 📊 Data Used
+
+### ERA5 Reanalysis Dataset
+
+This analysis utilizes **monthly ERA5 Reanalysis data** from the **European Centre for Medium-Range Weather Forecasts (ECMWF)**, covering the period from **2000 to 2024**.
+
+#### Temporal Coverage
+- **Full Dataset**: January 2000 - December 2024 (25 years of monthly data)
+- **Baseline Period**: 2000–2014 (15-year reference period for establishing climatological norms)
+- **Analysis Period**: 2019–2024 (6-year target period for heatwave detection and analysis)
+
+#### Data Characteristics
+- **Spatial Resolution**: 0.25° × 0.25° global grid
+- **Temporal Resolution**: Monthly averages
+- **Variables**: Surface air temperature (2m temperature)
+- **Quality**: State-of-the-art atmospheric reanalysis combining model data with observations
+
+The ERA5 dataset provides the most accurate and comprehensive record of global atmospheric conditions available, making it ideal for climate analysis and extreme weather event detection.
+
+---
+
 ## 📊 Key Visualizations
 
 ### 1️⃣ **P90 Map** - Temperature Baseline
