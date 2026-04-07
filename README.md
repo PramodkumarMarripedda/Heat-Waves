@@ -52,4 +52,4 @@ This metric shows how often heatwave conditions were observed across different r
 
 This visualization highlights the severity and scale of temperature anomalies.
 
-![Heatwave Intensity](Europe_intensity.png)
+![Heatwave Intensity](Europe_Intensity.png)
